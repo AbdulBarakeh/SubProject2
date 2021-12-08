@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aabd\\Documents\\Git_Test\\AvenX_Git\\SubProject2\\SubProject2\\SubProject2.csproj",
+      "projectUniqueName": "C:\\Users\\aabd\\Documents\\Git_Test\\AvenX_Git\\Project2\\Submodules\\SubProject2\\SubProject2\\SubProject2.csproj",
       "projectName": "SubProject2",
-      "projectPath": "C:\\Users\\aabd\\Documents\\Git_Test\\AvenX_Git\\SubProject2\\SubProject2\\SubProject2.csproj",
+      "projectPath": "C:\\Users\\aabd\\Documents\\Git_Test\\AvenX_Git\\Project2\\Submodules\\SubProject2\\SubProject2\\SubProject2.csproj",
       "packagesPath": "C:\\Users\\aabd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aabd\\Documents\\Git_Test\\AvenX_Git\\SubProject2\\SubProject2\\obj\\",
+      "outputPath": "C:\\Users\\aabd\\Documents\\Git_Test\\AvenX_Git\\Project2\\Submodules\\SubProject2\\SubProject2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
