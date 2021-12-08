@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "yRXYShNm6Cn5aZIrZ/I1X+sJlCepalA4S7ExtyaZyOuQChejJYKMPiGjWEbx6tdd/AjSJvka7Uc5+AoB3+N3sg==",
   "success": true,
   "projectFilePath": "C:\\Users\\aabd\\Documents\\Git_Test\\AvenX_Git\\Project2\\Submodules\\SubProject2\\SubProject2\\SubProject2.csproj",
+=======
+  "dgSpecHash": "5DrQ7gnLwB+vydaIoBj8WEZ/9WZOebVCFQiNR8gzPvtYyaFFCdioRDrwu6AS8F44E+NBFr8mY9Zf4FsR2fhoqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aabd\\Documents\\Git_Test\\AvenX_Git\\Project1\\Submodules\\SubProject2\\SubProject2\\SubProject2.csproj",
+>>>>>>> 2bfbb5917cbb328ea6ad6b776190f705110ef23d
   "expectedPackageFiles": [],
   "logs": []
 }
