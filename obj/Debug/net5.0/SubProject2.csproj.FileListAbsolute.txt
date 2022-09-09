@@ -9,3 +9,15 @@ C:\Users\aabd\Documents\Git_Test\AvenX_Git\Project2\Submodules\SubProject2\SubPr
 C:\Users\aabd\Documents\Git_Test\AvenX_Git\Project2\Submodules\SubProject2\SubProject2\obj\Debug\net5.0\SubProject2.dll
 C:\Users\aabd\Documents\Git_Test\AvenX_Git\Project2\Submodules\SubProject2\SubProject2\obj\Debug\net5.0\ref\SubProject2.dll
 C:\Users\aabd\Documents\Git_Test\AvenX_Git\Project2\Submodules\SubProject2\SubProject2\obj\Debug\net5.0\SubProject2.pdb
+C:\Users\aabd\Documents\Development_Test\MultiRepo\SubProject2\bin\Debug\net5.0\SubProject2.deps.json
+C:\Users\aabd\Documents\Development_Test\MultiRepo\SubProject2\bin\Debug\net5.0\SubProject2.dll
+C:\Users\aabd\Documents\Development_Test\MultiRepo\SubProject2\bin\Debug\net5.0\SubProject2.pdb
+C:\Users\aabd\Documents\Development_Test\MultiRepo\SubProject2\obj\Debug\net5.0\SubProject2.csproj.AssemblyReference.cache
+C:\Users\aabd\Documents\Development_Test\MultiRepo\SubProject2\obj\Debug\net5.0\SubProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aabd\Documents\Development_Test\MultiRepo\SubProject2\obj\Debug\net5.0\SubProject2.AssemblyInfoInputs.cache
+C:\Users\aabd\Documents\Development_Test\MultiRepo\SubProject2\obj\Debug\net5.0\SubProject2.AssemblyInfo.cs
+C:\Users\aabd\Documents\Development_Test\MultiRepo\SubProject2\obj\Debug\net5.0\SubProject2.csproj.CoreCompileInputs.cache
+C:\Users\aabd\Documents\Development_Test\MultiRepo\SubProject2\obj\Debug\net5.0\SubProject2.dll
+C:\Users\aabd\Documents\Development_Test\MultiRepo\SubProject2\obj\Debug\net5.0\refint\SubProject2.dll
+C:\Users\aabd\Documents\Development_Test\MultiRepo\SubProject2\obj\Debug\net5.0\SubProject2.pdb
+C:\Users\aabd\Documents\Development_Test\MultiRepo\SubProject2\obj\Debug\net5.0\ref\SubProject2.dll
