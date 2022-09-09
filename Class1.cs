@@ -8,7 +8,13 @@ namespace SubProject2
         public Class1()
         {
             elses = "Sub2";
-            Console.WriteLine("Sub2");
+            Console.WriteLine(elses);
+        }
+
+        public void Sub2()
+        {
+            elses = "Sub2 EXT";
+            Console.WriteLine(elses);
         }
     }
 }
